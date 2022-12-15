@@ -33,3 +33,6 @@ the execution chron checks if there is any task to execute
 
 the sats chron checks all threads for replies to update replies
 
+you can find the frontend here:
+
+https://github.com/ahanikotb/openoutreach-frontend
